@@ -38,6 +38,7 @@
                     android:fontFamily="sans-serif-thin"
                     android:gravity="center"
                     android:text="@string/app_name"
+                    android:textColorHint="@color/black"
                     android:textColor="@color/white"
                     android:textSize="35sp"
                     android:textStyle="bold" />
